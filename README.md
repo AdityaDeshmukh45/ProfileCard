@@ -1,2 +1,2 @@
-# Quiz_Game
-In this project I havw created a simple Quix game using C++ .
+# ProfileCard
+In this project I have created my profile card using HTML and CSS.
